@@ -1,0 +1,14 @@
+﻿<div class="wrapper">
+    <div id="formContent">
+        <h1 class="active"> Login</h1>
+
+        <form asp-controller="Login" asp-action="Login" method="post">
+            @Html.AntiForgeryToken()
+            <input type="text" id="login" class="second" name="email" placeholder="email">
+            <input type="text" id="password" class="third" name="password" placeholder="password">
+            <input type="submit" class="fourth" value="Log In">
+        </form>
+
+
+    </div>
+</div>

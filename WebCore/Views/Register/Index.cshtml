@@ -1,0 +1,16 @@
+﻿<div class="wrapper">
+    <div id="formContent">
+        <h1 class="active">Registration</h1>
+
+        <form asp-controller="Register" asp-action="Register" method="post">
+            @Html.AntiForgeryToken()
+            <input type="text" id="login" class="second" name="username" placeholder="username">
+            <input type="email" id="login" class="second" name="email" placeholder="email">
+            <input type="password" id="password" class="third" name="password" placeholder="password">
+            <input type="password" id="password" class="third" name="passwordrepeat" placeholder="password repeat">
+            <input type="submit" class="fourth" value="Register">
+        </form>
+
+
+    </div>
+</div>

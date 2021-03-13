@@ -1,0 +1,21 @@
+﻿@model List<Tuple<ICollection<WebCore.Models.Check>, string, int>>
+
+<h1>Checklist</h1>
+
+
+@foreach (var item in Model)
+{
+    <table>
+        <tr>
+            <th>@item.Item2</th>
+            <th>Checked</th>
+        </tr>
+        @foreach (var check in item.Item1)
+        {
+            <tr>
+                <td>@check.text</td>
+            </tr>
+        }
+    </table>
+}
+   

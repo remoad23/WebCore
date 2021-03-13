@@ -1,0 +1,9 @@
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.RazorAssemblyInfo.cache
+C:\Users\Patrick\source\repos\WebCore\obj\Debug\net5.0\WebCore.RazorAssemblyInfo.cs
